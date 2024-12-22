@@ -1,6 +1,7 @@
 # 👋 Привет! Я ПИКМИ!
 
-![Пикми в действии](https://media.giphy.com/media/3o7btMZ3h5V8Yy4d4I/giphy.gif)
+![Uploading c59e14fe-560e-4381-aee5-e87c029206ed.jpg…]()
+
 
 ## О себе
 
